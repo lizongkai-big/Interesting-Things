@@ -1,0 +1,4 @@
+I want to capture this Step List every 10 minutes because I want to know about my friend's activity time.
+First,I need to know this list's Link using Wireshark.
+Then,I should get this page by Python's requests.It need logining my QQ accout.
+Then,analysis this page and get useful information.
